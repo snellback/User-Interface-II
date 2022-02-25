@@ -208,3 +208,15 @@ footer h3 {
     font-size: 3rem;
     color: #FFFCF2;
 }
+
+/*--------------------------------- Responsive Tablet ------------------------------------*/
+
+@media (max-width: 800px){
+
+}
+
+/*--------------------------------- Responsive Mobile ------------------------------------*/
+
+@media(max-width: 500px){
+
+}
